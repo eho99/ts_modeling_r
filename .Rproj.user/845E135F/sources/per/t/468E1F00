@@ -1,0 +1,27 @@
+{
+    "id": "468E1F00",
+    "path": "D:/PROGRAMMING/code-workspace/STOCK_MARKET_ANALYSIS/ts_modeling_r/R/arima.Rmd",
+    "project_path": "R/arima.Rmd",
+    "type": "r_markdown",
+    "hash": "2041327912",
+    "contents": "",
+    "dirty": false,
+    "created": 1643438269533.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "chunk_output_type": "inline",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "33,0",
+        "scrollLine": "8"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1643522602,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1643522602109,
+    "read_only": false,
+    "read_only_alternatives": []
+}

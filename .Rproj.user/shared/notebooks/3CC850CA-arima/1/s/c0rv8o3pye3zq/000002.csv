@@ -1,0 +1,24 @@
+"0","```r
+packages <- c(\"tidyverse\", \"purrr\", \"tidyquant\", \"dplyr\", \"readr\", \"lubridate\")
+pkgTest <- function(x) {
+    if (!require(x, character.only = TRUE)) {
+        install.packages(x, repos = \"http://cran.r-project.org\", dep = TRUE)
+            if(!requre(x, character.only = TRUE)) stop(\"Package not found\")
+    }
+}
+
+pkgTest(\"tidyverse\")
+pkgTest(\"purrr\")
+pkgTest(\"tidyquant\")
+pkgTest(\"dplyr\")
+pkgTest(\"readr\")
+pkgTest(\"lubridate\")
+pkgTest(\"ggplot2\")
+library(tidyverse)
+library(purrr)
+library(tidyquant)
+library(dplyr)
+library(readr)
+library(lubridate)
+library(ggplot2)
+```"
